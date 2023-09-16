@@ -44,9 +44,3 @@
 </div>
 
 ###
-
-
-<img src="https://raw.githubusercontent.com/IsoCodeCrafter/IsoCodeCrafter/main/snake.svg" alt="Snake animation" />
-
-
-###
