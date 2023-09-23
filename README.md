@@ -1,8 +1,6 @@
 # README
-<div align="center">
-  <img height="150" src="https://www.canva.com/design/DAFvQvxm4YI/watch"/>
-</div>
 
+<script src="https://gist.github.com/IsoCodeCrafter/7a3a03ca2ff163cf855cfe26cad02754.js"></script>
 
 ###
 
