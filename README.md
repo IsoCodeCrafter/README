@@ -1,9 +1,5 @@
 # README
 
-![Pofile gif](https://drive.google.com/uc?id=1lta_jujkqE3CWoS-MLfs69Xa34J84f34)
-![Profile]([GIF'nin_URL'si](https://drive.google.com/uc?id=1lta_jujkqE3CWoS-MLfs69Xa34J84f34)){width=400 height=300}
-
-
 ###
 
 <h1 align="center">hey there 👋</h1>
