@@ -1,6 +1,6 @@
 # README
 
-<img src="https://drive.google.com/file/d/1lta_jujkqE3CWoS-MLfs69Xa34J84f34/view?usp=drive_link" alt="">
+<a href="https://drive.google.com/file/d/1lta_jujkqE3CWoS-MLfs69Xa34J84f34/view?usp=drive_link"></a>
 
 ###
 
